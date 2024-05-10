@@ -2,6 +2,9 @@
 
 ---
 
+Link | [Site Ofcial POP-OS](https://pop.system76.com/).
+
+
 ## 1º Passo: ##
 Após iniciar o programa "POP-OS" em seu computador, irá aparecer uma aba de instalação do POP-OS pedindo para você escolher a linguagem desejada. Em seguida selecione o tipo do teclado, **(o próprio POP-OS seleciona o tipo do teclado automático para você)**, mas caso deseje outro tipo a escolha é sua.
 
