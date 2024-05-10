@@ -2,7 +2,9 @@
 
 ---
 
-**[Site Oficial POP-OS](https://pop.system76.com/).** 
+# **[Site Oficial POP-OS](https://pop.system76.com/).** 
+
+---
 
 ## 1º Passo: 🧩 ## 
 
