@@ -31,5 +31,5 @@ Se tudo ocorrer bem, deverá aparecer uma nova janela escrita **"Encriptação d
 Utilizando as teclas **" ↑ , ↓ , Enter"** selecione a primeira opção. Em seguida vai aparecer uma aba pedindo uma senha ou um código, lá você irá inserir a senha que você utilizou no usuário.
 
 Após tudo isso ele vai pedir para você escolher o layout que deseja para o sistema. Caso não ligue para isso apenas avance para as próximas opções até chegar na aba onde você vai definir o Fuso Horário da sua região/cidade. Por fim finalize o processo de instalção e aproveite o sistema **"POP-OS"**</center>
-
+ 
 ---
