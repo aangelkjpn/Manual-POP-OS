@@ -2,17 +2,17 @@
 
 ---
 
-Link | [Site Ofcial POP-OS](https://pop.system76.com/).
+**[Site Oficial POP-OS](https://pop.system76.com/).**
 
 
-## 1º Passo: ##
+## 1º Passo: 🧩 ##
 Após iniciar o programa "POP-OS" em seu computador, irá aparecer uma aba de instalação do POP-OS pedindo para você escolher a linguagem desejada. Em seguida selecione o tipo do teclado, **(o próprio POP-OS seleciona o tipo do teclado automático para você)**, mas caso deseje outro tipo a escolha é sua.
 
 Após tudo isso irá aparecer duas opções de instalação, selecione a opção de instalação **"Clean Install"** e em seguida selecione o drive onde você deseja que seja instalado o sistema.
 
 ---
 
-## 2º Passo: ##
+## 2º Passo: 🔐 ##
 Certo, agora uma nova página pedindo seu nome vai aparecer, use a criatividade e coloque seu nome ou crie um para sua máquina. Em seguida escolha uma senha. 
 
 **EXEMPLO:** "123456" _**(CRIE UMA SENHA MAIS SEGURA!)**_
@@ -21,7 +21,7 @@ Se tudo ocorrer bem, deverá aparecer uma nova janela escrita **"Encriptação d
 
 ---
 
-## 3º Passo ##
+## 3º Passo 💾 ##
 
 Após reiniciar deverá aparecer uma tela como essa:
 
