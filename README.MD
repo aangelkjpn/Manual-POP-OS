@@ -19,6 +19,7 @@ Se tudo ocorrer bem, deverá aparecer uma nova janela escrita "Encriptação da 
 ## 5º Passo ##
 
 Após reiniciar deverá aparecer uma tela como essa:
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Debian_Unstable_GRUB2_%282015%29.png" alt="Logo" width="360">
 
 Utilizando as teclas "↑ , ↓ , Enter" selecione a primeira opção. Em seguida vai aparecer uma aba pedindo uma senha ou um código, lá você irá inserir a senha que você utilizou no usuário.
