@@ -30,4 +30,4 @@ Após tudo isso ele vai pedir para você escolher o layout que deseja para o sis
 
 ---
 
-<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg" alt="Logo" width="250">
+<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg" alt="Logo" width="400">
