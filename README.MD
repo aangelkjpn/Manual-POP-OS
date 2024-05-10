@@ -7,12 +7,16 @@ Após iniciar o programa "POP-OS" em seu computador, irá aparecer uma aba de in
 
 Após tudo isso irá aparecer duas opções de instalação, selecione a opção de instalação "Clean Install" e em seguida selecione o drive onde você deseja que seja instalado o sistema.
 
+---
+
 ## 2º Passo: ##
 Certo, agora uma nova página pedindo seu nome vai aparecer, use a criatividade e crie seu nome ou o nome da sua máquina. Em seguida escolha uma senha.
 
-EXEMPLO: "123456" (CRIE UMA MAIS SEGURA!)
+**EXEMPLO:** "123456" _**(CRIE UMA SENHA MAIS SEGURA!)**_
 
 Se tudo ocorrer bem, deverá aparecer uma nova janela escrita "Encriptação da Unidade" ou "Drive Encryption", apenas aceite e aguarde a finalização da instalação. Pronto, agora reinicie seu dispositivo.
+
+---
 
 ## 3º Passo ##
 
