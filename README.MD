@@ -21,7 +21,7 @@
 **EXEMPLO:** "123456" _**(CRIE UMA SENHA MAIS SEGURA!)**_
 <br>
 
-<div style="text-align: center;">Se tudo ocorrer bem, deverá aparecer uma nova janela escrita **"Encriptação da Unidade"** ou **"Drive Encryption"**, apenas aceite e aguarde a finalização da instalação. Pronto, agora reinicie seu dispositivo. </div>
+<div style="text-align: center;">Se tudo ocorrer bem, deverá aparecer uma nova janela escrita "Encriptação da Unidade" ou "Drive Encryption", apenas aceite e aguarde a finalização da instalação. Pronto, agora reinicie seu dispositivo. </div>
 
 ---
 
