@@ -28,3 +28,6 @@ Utilizando as teclas **" ↑ , ↓ , Enter"** selecione a primeira opção. Em s
 
 Após tudo isso ele vai pedir para você escolher o layout que deseja para o sistema. Caso não ligue para isso apenas avance para as próximas opções até chegar na aba onde você vai definir o Fuso Horário da sua região/cidade. Por fim finalize o processo de instalção e aproveite o sistema **"POP-OS"**
 
+---
+
+<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg" alt="Logo" width="450">
